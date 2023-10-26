@@ -1,0 +1,19 @@
+API key
+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
+
+
+link to create and view API keys
+https://platform.openai.com/account/api-keys
+
+GPT login email: jayeolamujidat@gmail.com
+
+
+streamlit doc:    https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps#build-a-simple-chatbot-gui-with-streaming
+
+
+ERRORS
+secrets.toml not in the location where its supposed to be
+
+AttributeError: st.session_state has no attribute "messages". Did you forget to initialize it? More info: https://docs.streamlit.io/library/advanced-features/session-state#initialization
+
+Attribute 
